@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "IMDB",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%202/vecs.tsv?raw=true",
+      "metadataPath": "https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/raw/master/Week%202/meta.tsv"
+    }
+  ]
+}
